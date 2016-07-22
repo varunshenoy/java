@@ -1,0 +1,14 @@
+{
+  "title": "Java",
+  "text": "Introduction to game development and object-oriented programming with Java.",
+  "short": "",
+  "long": "",
+  "color": "purple-600",
+  
+  "section": {
+    "calling-methods": {
+      "title": "Calling methods",
+      "text": ""
+    }
+  }
+}
