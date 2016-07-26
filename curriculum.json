@@ -1,14 +1,62 @@
 {
-  "title": "Java",
+  "title": "Java Game Design",
   "text": "Introduction to game development and object-oriented programming with Java.",
-  "short": "",
-  "long": "",
+  "short": "Learn Java through games and animations.",
+  "long": "Our innovative approach to Java programming uses graphics and animations to visualize computer science concepts. This is the official curriculum for the open-source APCS graphics library that makes the introduction to programming an exciting and creative endeavor for our students.",
   "color": "purple-600",
   
   "section": {
+    "eclipse": {
+      "title": "Set up Eclipse",
+      "text": "Instructions for setting up Eclipse and APCS graphics on your computer.",
+      "type": "setup"
+    },
     "calling-methods": {
       "title": "Calling methods",
-      "text": ""
+      "text": "Computer instructions can be grouped together into methods for organization and reusability.",
+      "type": "lesson"
+    },
+    "drawing": {
+      "title": "Drawing",
+      "text": "Create a Java application to draw on the window with the mouse and keyboard.",
+      "type": "lab"
+    },
+    "branching": {
+      "title": "Branching",
+      "text": "Control instruction ordering with if, else if and else statements.",
+      "type": "lesson"
+    },
+    "control-flow": {
+      "title": "Control Flow",
+      "text": "Use if, else if, and else statements to control the execution of instructions.",
+      "type": "lab"
+    },
+    "variables": {
+      "title": "Variables",
+      "text": "Store and manipulate information in the computer's memory.",
+      "type": "lesson"
+    },
+    "physics": {
+      "title": "Physics",
+      "text": "Simulate objects moving according to the laws of physics.",
+      "type": "lab"
+    },
+    "logic": {
+      "title": "Logic",
+      "text": "Learn how to phrase complex statements as a combination of simpler ones.",
+      "type": "lesson"
+    },
+    "flappy-bird": {
+      "title": "Flappy Bird",
+      "text": "Create your own rendition of this iconic game.",
+      "type": "lab"
     }
+  },
+  
+  "prerequisite": {
+    "cs": ["*"]
+  },
+  "recommended": {
+    "python": ["*"]
   }
 }
